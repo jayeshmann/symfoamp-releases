@@ -21,7 +21,7 @@ These APKs are **debug-signed for friends-and-family distribution**. A release s
 
 The macOS build is **unsigned** (no Apple Developer ID yet), so Gatekeeper blocks a plain double-click on first launch.
 
-1. **Download the latest `symfoamp-<version>-macos-universal.zip`** from the [Releases page](https://github.com/jayeshmann/symfoamp-releases/releases/latest).
+1. **Download the latest `symfoamp-<version>-macos-arm64.zip`** from the [Releases page](https://github.com/jayeshmann/symfoamp-releases/releases/latest).
 2. Unzip it and move **SymfoAmp** into your Applications folder.
 3. **First launch:** right-click (or Control-click) SymfoAmp -> **Open** -> confirm. It opens normally after that.
 4. Settings -> About should match the release tag you installed.
